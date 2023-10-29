@@ -20,7 +20,7 @@
 
 * Blue River Technologies are primarily the agricultural market - Farmers.   According to Forbes.com the 2020 the smart agricultural market was $1 Billion and projected to grow to $15.3 billion by 2025.
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* Blue River Technologies offers See and Spray Technology.  See and Spray delivers a targeted spray to weeds, applying herbicide only where needed.  The old model is to genetically modify crops to withstand herbicides and coat the entire field. See and Spray uses artificial intelligence to recognize unwanted growths in fields and treat only those plants.  This allows farmers to plant safer unmodified crops, reduce herbicides by two-thirds and reduces potentailly dangerous herbicide drift.  
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
