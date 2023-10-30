@@ -28,21 +28,21 @@
 
 * Blue River Technology is in the farming and agricultural sector.  
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+* According to Precison Reports, Growth in the AI agricultural market is grouped into 4 main categories: Precision Farming, Drone Analytics, Agricultural robots and Livestock Monitoring.  The AI segments are Machine Learning, Computer vision and Predictive Analytics.  The North America agricultual market is driving AI agricultural growth due to the high adoption of advanced AI technologies, the presence of large players that are well funded.  The AI agricultural segment is expected to grow to $15.3 billion by 2025.  
 
-* What are the other major companies in this field?
+* The major companies in the AI agricultural market are Deere and Company, Agribotix, Ec2ce, IBM, Cainthus, Descartes Labs, The Climate Corporation, Granular, Gamaya, Connecterra, Awhere, Skysquirrel Technologies, Tule Technologies, Prospera, Farmbot, Precision Hawk, Microsoft, Mavrx, Vision Robotics, and Resson.
 
 ## Results
 
-* What has been the business impact of this company so far?
+* Blue River Technology was one of the first companies to develop and go to market with AI technologies.   Their inial goal was to radically change agriculture by creating intelligent machinery.  They have been able to provide sustanable solutions by reducing the use of herbicides by two-thirds.   The typical broadcast application for herbicides is 3 pounds per acre - which is a cost of $100 per acre.   The See and Spray system allows farmers to reduce herbicide use to 1 pound per acre or a cost of $33 per acre.  According the the USDA the average US farm is 208 acres.  The traditional broadcast method uses 624 pounds of herbicide per treatment at a cost of $20,800.  The See and Spray system allows the use of 208 pounds of herbicide at a cost of $6,933 per treatment.  
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+* The largest metric of success for Blue River Technology is the reduction of herbicide use and crop yeilds.   Their system allows farmers to reduce herbicide usage by over two-thirds and increases crop yield 40 percent or more year after year.  
 
-* How is your company performing relative to competitors in the same field?
+* Blue River Technology's revnue is hard to pinpoint due to it being part of a larger company John Deere inc..   Looking at John Deere company statements I estimate their 2020 sales of $21 million.   Their closest competetors are One Concern Inc at $7.4 million, Microblink at $5 million and Brighterion at $7 million.  john Deere aquired Blue River for $305 million a big cost compared to the 2017 company evaluation of $87 million.  
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* 
 
 * Why do you think that offering this product or service would benefit the company?
 
