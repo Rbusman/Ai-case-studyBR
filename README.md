@@ -38,14 +38,14 @@
 
 * The largest metric of success for Blue River Technology is the reduction of herbicide use and crop yeilds.   Their system allows farmers to reduce herbicide usage by over two-thirds and increases crop yield 40 percent or more year after year.  
 
-* Blue River Technology's revnue is hard to pinpoint due to it being part of a larger company John Deere inc..   Looking at John Deere company statements I estimate their 2020 sales of $21 million.   Their closest competetors are One Concern Inc at $7.4 million, Microblink at $5 million and Brighterion at $7 million.  john Deere aquired Blue River for $305 million a big cost compared to the 2017 company evaluation of $87 million.  
+* Blue River Technology's revnue is hard to pinpoint due to it being part of a larger company John Deere inc..   Looking at John Deere company statements I estimate their 2020 sales of $21 million.   Their closest competetors are One Concern Inc at $7.4 million, Microblink at $5 million and Brighterion at $7 million.  John Deere aquired Blue River for $305 million a big cost compared to the 2017 company evaluation of $87 million.  
 
 ## Recommendations
 
-* 
+* I think Blue River Technologies should add features to their technology.  Crops need fertilizer, heat, sunlight and moisture.   Additionally crops are threatened by insects, drought, animal encrochment, weeds and disease.   The current See and Spray system is taking pictures of the fields to identify invasive weeds, what if you added additional AI machine learning that helps to identify other variables that address factors that effect crop yeilds.   The current system could impliment a crop management by exception in the fields.  Train the AI system with red flag warnings that identify other variables that kill crops - insect damage, diseases and low moisture.  My vision is that you get a early warning of danger signs before it becomes a problem.  An example is that if the See and Spray system identifys an insect that is potentially dangerous to the crops - sends an email or alert to the farmer so they can treat the insects before the damage starts or spreads.   This can be done with insects found, insect damage signs, wilty plants due to lack of moisture, or signs of plant disease.  I would also add additional sensors in the fields that monitor fertilizer, heat sunlight and moisture to give better insight into the crops.   Additional sensors could also monitor fields and alert when animals or humans enter the fields to mitigate any potential negative effects to crop yeilds  
 
-* Why do you think that offering this product or service would benefit the company?
+* The offering of additional services will do a couple of things - lock out any potential competetors that enter the marketplace, allow Blue River Technologies to charge more for their services and become a better partner for their client base.   
 
-* What technologies would this additional product or service utilize?
+* The current technology would have to be scaled to provide more services.   The current technology is already taking pictures of the plant rows to identify invasive plants, you would need train the AI to recognize more factors that affect crop yeilds such as disease, insect damage and low moisture.   The crop management by exception that alerts you to danger signs would need additional sensors and software.  This does not need to all happen at once, but a plan to add an additional service each season that will help the farmer increase yield and make their lives easier.  
 
-* Why are these technologies appropriate for your solution?
+* The additional technologies will provide a full solution to their clients that addresses what crops need - fertilizer, heat, sunlight and moisture.  Additionally it will provide the farmer a way to manage their fields by exception - a series of red flag alerts that allows the farmer to catch potential problems before they affect crops.  
