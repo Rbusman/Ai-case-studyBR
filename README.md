@@ -1,4 +1,4 @@
-# Ai-case-studyBR
+# Ai-case-study
 
 # Blue River Technology
 
