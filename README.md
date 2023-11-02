@@ -9,7 +9,7 @@
 * Company was incorporated in 2011.
 
 * Blue River Technology was founded by Jorge Heraud and Lee Redden.
-[!Watch Jorge Heraud Interview](https://www.facebook.com/reel/893287348628423?mibextid=kcDB8O)
+  [Watch Jorge Heraud Interview](https://www.facebook.com/reel/893287348628423?mibextid=kcDB8O)
 
 * Jorge Heraud and Lee Redden were both graduate students at Stanford University exploiring commerical vision technology in autonomous vehicles.  The founders dediced to focus on agricultural applications, more specifically lettuce thinning as an inital target application with the goal of growing larger crops.  I got in contact with Jorge through Linkedin to get more insigth into the company.  Jorge explaned that they chose to initally focus on lettuce production because the area they reside has a large agricultural lettuce production.  Jorge was the software engineer and Lee was the mechanical engineer. 
  
