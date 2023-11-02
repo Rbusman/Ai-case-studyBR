@@ -17,7 +17,7 @@
 
 ## Business Activities
 
-* Blue River Technology was founded to automate routine agricultural tasks such as weeding and thinning out of crops to yeild better harvests.  Their mission statement from [![Blue River Technology Website](www.bluerivertechnology.com) is "We empower our customers - farmers - to implement more sustainable solutions: optimize chemical usage, reimagine routine processes and imrprove farming yeilds year after year.  We believe that focusing on the small stuff - pixel by pixel and plant by plant - leads to big gains."
+* Blue River Technology was founded to automate routine agricultural tasks such as weeding and thinning out of crops to yeild better harvests.  Their mission statement from [[Blue River Technology Website](www.bluerivertechnology.com) is "We empower our customers - farmers - to implement more sustainable solutions: optimize chemical usage, reimagine routine processes and imrprove farming yeilds year after year.  We believe that focusing on the small stuff - pixel by pixel and plant by plant - leads to big gains."
 
 * Blue River Technology are primarily the agricultural market - Farmers.   According to Forbes.com the 2020 the smart agricultural market was $1 Billion and projected to grow to $15.3 billion by 2025.
 
